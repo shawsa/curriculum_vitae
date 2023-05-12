@@ -1,0 +1,144 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[bottom=0.8in,top=0.8in, left=0.8in,right=0.8in]{geometry}
+
+% non-numbered pages
+\pagestyle{empty} 
+
+%%%%%%%%%%% pdflatex %%%%%%%%%
+\usepackage[T1]{fontenc}
+\usepackage{newtxmath,newtxtext}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%% xelatex %%%%%%%%%%%%%%
+% \usepackage{fontspec}
+% \setmainfont{Times New Roman}
+% \setmainfont{TeX Gyre Termes}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%A Few Useful Packages
+\usepackage{parskip}
+\usepackage{titlesec}	
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{hyperref}
+\definecolor{linkcolour}{rgb}{0,0.2,0.6}
+\hypersetup{colorlinks,breaklinks,urlcolor={linkcolour!90}, linkcolor={linkcolour!90}}
+
+% line spacing
+\linespread{1.1}
+
+% section reformatting
+\titleformat{\section}{\color{black} \large}{}{0em}{}[\color{black}]
+\titlespacing{\section}{0pt}{3pt}{3pt}
+
+\newcommand{\sectitle}[1]{
+    \vspace{1.5ex}
+    \section{#1}
+    \vspace{-3ex}
+    \noindent\rule{\textwidth}{0.7pt}
+    \vspace{-4ex}
+}
+
+% new text bold style
+\newsavebox\CBox
+\def\textBF#1{\sbox\CBox{#1}\resizebox{\wd\CBox}{\ht\CBox}{\textcolor{linkcolour}{{#1}}}}
+\parindent=0pt
+
+% dummy text
+\newcommand{\mylipsum}{Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit,
+vestibulum ut, placerat ac, adipiscing vitae, felis.}
+
+\usepackage{biblatex}
+\addbibresource{references.bib}
+
+%-------------------- Begin document ----------------------
+\begin{document}
+
+%-------------------- Title section ----------------------
+\begin{minipage}{\textwidth}
+    \vspace{7ex}
+        \par{
+        \centering
+        \vspace{-0.9in}
+            % \textcolor{black}{\emph{Curriculum Vitae}}\\
+            \textcolor{linkcolour}{\Large Sage Shaw}
+        \par}
+\end{minipage}
+
+%-------------------- Header ----------------------
+\begin{center}
+\href{mailto:sage.shaw@colorado.edu}{sage.shaw@colorado.edu} %\,$\cdot$\,\href{https://mywebsite.com/}{mywebsite.com}
+\end{center}
+
+%%% Short paragraph
+% My brief description.~\mylipsum
+
+%-------------------- SECTIONS ----------------------
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectitle{Education}
+
+\textBF{Ph.D.} in Applied Mathematics -- {Univeristy of Colorado Boulder}\hfill {2019 -- Current} 
+
+\textBF{M.S.} Mathematics -- {Boise State University}  \hfill {2017 --- 2019} 
+
+\textBF{B.S.} in Mathematics -- {Southern Oregon University}  \hfill {2008 -- 2013} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectitle{Presentations and Publications}
+
+\begin{enumerate}
+	\item \fullcite{shaw_SIADS23}
+	\item \fullcite{shaw_comp}
+	\item \fullcite{shaw_2023_recruitment}
+	\item \fullcite{shaw_grad_seminar}
+	\item \fullcite{SHAW2019}
+	\item \fullcite{shaw_CSE19}
+	\item \fullcite{shaw_capstone}
+	\item \fullcite{shaw_SOAR}
+	\item \fullcite{shaw_chico_conference}
+\end{enumerate}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectitle{Teaching Assistant Experience}
+
+\textbf{University of Colorado Boulder} \hfill{2019 -- Current}
+
+\begin{tabular}{l l l}
+	\textbf{Course Number} & \textbf{Course Name} & \textbf{Term} \\
+	APPM 3310 & Matrix Methods and Applications & Fall 2022 \\
+	APPM 5560/4560 & Markov Processes, Queues, and Monte Carlo Simulations & Spring 2022 \\
+	APPM 4650 & Intermediate Numerical Analysis I & Fall 2021 \\
+	APPM 1360 & Calculus 2 for Engineers & Spring 2021 \\
+	APPM 2360 & Introduction to Differential Equations with Linear Algebra & Fall 2020 \\
+	APPM 1350 & Calculus 1 for Engineers & Fall 2019
+\end{tabular}
+
+\textbf{Boise State University} \hfill{2017 -- 2019}
+
+\begin{tabular}{l l l}
+	\textbf{Course Number} & \textbf{Course Name} & \textbf{Term} \\
+	MATH 144 & Precalculus II: Trigonometry & Spring 2019 \\
+	MATH 149 & Precalculus: Function for Business (FM) & Spring 2019 \\
+	MATH 144 & Precalculus II: Trigonometry & Fall 2018 \\
+	MATH 144 & Precalculus II: Trigonometry & Spring 2018 \\
+	MATH 143 & College Algebra (FM) & Spring 2018 \\
+	MATH 143 & College Algebra (FM) & Fall 2017 \\
+	MATH 108 & Intermediate Algebra & Fall 2017 \\
+\end{tabular}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectitle{Awards and Certifications}
+
+Summer Research Fellowship - Boise State University 2018
+
+Exam P of the Society of Actuaries 2013
+
+Harry S. Kieval Scholarship Outstanding Jr. 2010
+
+Ronald E. McNair Excellence in Scholarship 2010
+
+Charles \& Susan Cook Scholarship 2009
+
+\end{document}

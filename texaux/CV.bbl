@@ -1,0 +1,285 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{SHAW2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f5753b28251f6ed32b370842fce9965d}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Sage},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{f5753b28251f6ed32b370842fce9965d}
+      \strng{fullhash}{f5753b28251f6ed32b370842fce9965d}
+      \strng{bibnamehash}{f5753b28251f6ed32b370842fce9965d}
+      \strng{authorbibnamehash}{f5753b28251f6ed32b370842fce9965d}
+      \strng{authornamehash}{f5753b28251f6ed32b370842fce9965d}
+      \strng{authorfullhash}{f5753b28251f6ed32b370842fce9965d}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Boise State University Theses and Dissertations}
+      \field{month}{8}
+      \field{title}{Radial Basis Function Finite Difference Approximations of the Laplace-Beltrami Operator}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.18122/td/1587/boisestate
+      \endverb
+      \verb{file}
+      \verb "Radial Basis Function Finite Difference Approximations of the Laplace-" by Sage Byron Shaw:/home/sage/Zotero/storage/2F5WN274/1587.html:text/html;Full Text:/home/sage/Zotero/storage/PAVB783X/Shaw - 2019 - Radial Basis Function Finite Difference Approximat.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://scholarworks.boisestate.edu/td/1587
+      \endverb
+      \verb{url}
+      \verb https://scholarworks.boisestate.edu/td/1587
+      \endverb
+    \endentry
+    \entry{shaw_comp}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=548ec38ec9b157aa154702fcbb283ba7}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Sage\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{fullhash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{bibnamehash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{authorbibnamehash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{authornamehash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{authorfullhash}{548ec38ec9b157aa154702fcbb283ba7}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{CU Boulder APPM Comprehensive Exam Presentation}
+      \field{title}{Control of Traveling Waves in Adaptive Neural Fields}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://shawsa.github.io/presentations/20230404_comps/index.html
+      \endverb
+      \verb{url}
+      \verb https://shawsa.github.io/presentations/20230404_comps/index.html
+      \endverb
+    \endentry
+    \entry{shaw_grad_seminar}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=548ec38ec9b157aa154702fcbb283ba7}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Sage\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{fullhash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{bibnamehash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{authorbibnamehash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{authornamehash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{authorfullhash}{548ec38ec9b157aa154702fcbb283ba7}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{note}{CU Boulder APPM Graduate Student Seminar}
+      \field{title}{Functional Programming in Python}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://shawsa.github.io/presentations/grad_seminar20210826/index.html
+      \endverb
+      \verb{url}
+      \verb https://shawsa.github.io/presentations/grad_seminar20210826/index.html
+      \endverb
+    \endentry
+    \entry{shaw_capstone}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=548ec38ec9b157aa154702fcbb283ba7}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Sage\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{fullhash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{bibnamehash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{authorbibnamehash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{authornamehash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{authorfullhash}{548ec38ec9b157aa154702fcbb283ba7}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Honors Capstone Published through Southern Oregon University}
+      \field{title}{On the Eigenproblem}
+      \field{year}{2013}
+    \endentry
+    \entry{shaw_chico_conference}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=548ec38ec9b157aa154702fcbb283ba7}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Sage\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{fullhash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{bibnamehash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{authorbibnamehash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{authornamehash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{authorfullhash}{548ec38ec9b157aa154702fcbb283ba7}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Presented at the Northern California Undergraduate Mathematics Conference at Chico State University}
+      \field{title}{The Power Method: A Faster Approach to Eigenvectors}
+      \field{year}{2013}
+    \endentry
+    \entry{shaw_SOAR}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=548ec38ec9b157aa154702fcbb283ba7}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Sage\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{fullhash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{bibnamehash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{authorbibnamehash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{authornamehash}{548ec38ec9b157aa154702fcbb283ba7}
+      \strng{authorfullhash}{548ec38ec9b157aa154702fcbb283ba7}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Presented at Southern Oregon Arts and Research (SOAR) at Southern Oregon University}
+      \field{title}{The QR Algorithm}
+      \field{year}{2013}
+    \endentry
+    \entry{shaw_2023_recruitment}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=548ec38ec9b157aa154702fcbb283ba7}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Sage\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=824ac75cd5a752c9fa78050c256e49fe}{%
+           family={Kilpatrick},
+           familyi={K\bibinitperiod},
+           given={Zachary\bibnamedelima P.},
+           giveni={Z\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{0d223f67967e9a484ce384427bdb85d1}
+      \strng{fullhash}{0d223f67967e9a484ce384427bdb85d1}
+      \strng{bibnamehash}{0d223f67967e9a484ce384427bdb85d1}
+      \strng{authorbibnamehash}{0d223f67967e9a484ce384427bdb85d1}
+      \strng{authornamehash}{0d223f67967e9a484ce384427bdb85d1}
+      \strng{authorfullhash}{0d223f67967e9a484ce384427bdb85d1}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{note}{Poster Presentation for CU APPM recruitment}
+      \field{title}{Stimuli shift the position of traveling waves in neural fields with synaptic depression}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://shawsa.github.io/presentations/20230310_recruitment_poster.html
+      \endverb
+      \verb{url}
+      \verb https://shawsa.github.io/presentations/20230310_recruitment_poster.html
+      \endverb
+    \endentry
+    \entry{shaw_SIADS23}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=548ec38ec9b157aa154702fcbb283ba7}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Sage\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=824ac75cd5a752c9fa78050c256e49fe}{%
+           family={Kilpatrick},
+           familyi={K\bibinitperiod},
+           given={Zachary\bibnamedelima P.},
+           giveni={Z\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{0d223f67967e9a484ce384427bdb85d1}
+      \strng{fullhash}{0d223f67967e9a484ce384427bdb85d1}
+      \strng{bibnamehash}{0d223f67967e9a484ce384427bdb85d1}
+      \strng{authorbibnamehash}{0d223f67967e9a484ce384427bdb85d1}
+      \strng{authornamehash}{0d223f67967e9a484ce384427bdb85d1}
+      \strng{authorfullhash}{0d223f67967e9a484ce384427bdb85d1}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{note}{Poster Presentation for SIADS23}
+      \field{title}{Stimuli shift the position of traveling waves in neural fields with synaptic depression}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://shawsa.github.io/presentations/20230516_SIADS_poster.html
+      \endverb
+      \verb{url}
+      \verb https://shawsa.github.io/presentations/20230516_SIADS_poster.html
+      \endverb
+    \endentry
+    \entry{shaw_CSE19}{unpublished}{}
+      \name{author}{3}{}{%
+        {{hash=548ec38ec9b157aa154702fcbb283ba7}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Sage\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=3779e5e97afd57d14a9aca17898037d8}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={Grady\bibnamedelima B.},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=d254c009ccb9334b23c649df1f940baa}{%
+           family={Shankar},
+           familyi={S\bibinitperiod},
+           given={Varun},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{a4e731b9babaf14b4c36b157a451ef43}
+      \strng{fullhash}{a4e731b9babaf14b4c36b157a451ef43}
+      \strng{bibnamehash}{a4e731b9babaf14b4c36b157a451ef43}
+      \strng{authorbibnamehash}{a4e731b9babaf14b4c36b157a451ef43}
+      \strng{authornamehash}{a4e731b9babaf14b4c36b157a451ef43}
+      \strng{authorfullhash}{a4e731b9babaf14b4c36b157a451ef43}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Poster Presentation at SIAM CSE19}
+      \field{title}{A Comparison of Rbf-Fd Methods for Solving PDEs on Surfaces}
+      \field{year}{2019}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
