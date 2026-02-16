@@ -25,6 +25,8 @@
 \definecolor{linkcolour}{rgb}{0,0.2,0.6}
 \hypersetup{colorlinks,breaklinks,urlcolor={linkcolour!90}, linkcolor={linkcolour!90}}
 
+\usepackage{etaremune} % reverse lists
+
 % line spacing
 \linespread{1.1}
 
@@ -50,7 +52,9 @@
 vestibulum ut, placerat ac, adipiscing vitae, felis.}
 
 \usepackage{biblatex}
-\addbibresource{references.bib}
+\addbibresource{publications.bib}
+\addbibresource{theses.bib}
+\addbibresource{presentations.bib}
 
 %-------------------- Begin document ----------------------
 \begin{document}
@@ -88,7 +92,60 @@ vestibulum ut, placerat ac, adipiscing vitae, felis.}
 \textBF{B.S.} in Mathematics -- {Southern Oregon University}  \hfill {2008 -- 2013} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\sectitle{Presentations and Publications}
+\sectitle{Publications}
+
+\begin{etaremune}
+	\item \fullcite{shawRadialBasisFunction2025}
+	\item \fullcite{shaw2024representing}
+\end{etaremune}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectitle{Theses}
+
+\begin{etaremune}
+
+	\item \fullcite{shaw2025approximating}
+	\item \fullcite{shaw2019rbf}
+
+\end{etaremune}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectitle{Teaching Experience}
+
+\textbf{Univeristy of Colorado Boulder}
+
+\begin{tabular}{l l l l}
+	\textbf{Course Number} & \textbf{Term} & \textbf{Role} & \textbf{Course Name} \\
+	APPM 2720 & S25 & Instructor & \textit{Matrix Methods and Applications Workgroup} \\
+	APPM 3310 & S25 & TA & \textit{Matrix Methods and Applications} \\
+	APPM 5610 & S24 & TA & \textit{Numerical Analysis 2} \\
+	APPM 4350 & F24 & TA & \textit{Fourier Series and Boundary Value Problems -- Intro to PDEs} \\
+	APPM 5370/4370 & F23 & Grader & \textit{Computational Neuroscience} \\
+	STAT 5100/4100 & S22 & TA & \textit{Markov Processes, Queues, and Monte Carlo Simulations } \\
+	APPM 3310 & F22 & TA & \textit{Matrix Methods and Applications} \\
+	APPM 1360 & S21 & TA & \textit{Calculus 2 for Engineers } \\
+	APPM 1350 & F21 & TA & \textit{Calculus 1 for Engineers } \\
+	APPM 4650 & F21 & TA & \textit{Intermediate Numerical Analysis I} \\
+	APPM 4650 & S20 & Grader & \textit{Intermediate Numerical Analysis II} \\
+	APPM 2360 & F20 & TA & \textit{Introduction to Differential Equations with Linear Algebra } \\
+	APPM 1350 & F19 & TA & \textit{Calculus 1 for Engineers }
+\end{tabular}
+
+\textbf{Boise State University}
+
+\begin{tabular}{l l l l}
+	\textbf{Course Number} & \textbf{Term} & \textbf{Role} & \textbf{Course Name} \\
+	MATH 144 & S19 & TA & \textit{Precalculus II: Trigonometry} \\
+	MATH 149 & S19 & TA & \textit{Precalculus: Function for Business (FM)} \\
+	MATH 144 & F18 & TA & \textit{Precalculus II: Trigonometry} \\
+	MATH 144 & S18 & TA & \textit{Precalculus II: Trigonometry} \\
+	MATH 143 & S18 & TA & \textit{College Algebra (FM)} \\
+	MATH 143 & F17 & TA & \textit{College Algebra (FM)} \\
+	MATH 108 & F17 & TA & \textit{Intermediate Algebra} \\
+\end{tabular}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectitle{Presentations}
 
 \begin{enumerate}
 	\item \fullcite{shaw_SIADS23}
@@ -103,32 +160,17 @@ vestibulum ut, placerat ac, adipiscing vitae, felis.}
 \end{enumerate}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\sectitle{Teaching Assistant Experience}
+\sectitle{Service}
 
-\textbf{University of Colorado Boulder} \hfill{2019 -- Current}
+Grad Rep
 
-\begin{tabular}{l l l}
-	\textbf{Course Number} & \textbf{Course Name} & \textbf{Term} \\
-	APPM 3310 & Matrix Methods and Applications & Fall 2022 \\
-	APPM 5560/4560 & Markov Processes, Queues, and Monte Carlo Simulations & Spring 2022 \\
-	APPM 4650 & Intermediate Numerical Analysis I & Fall 2021 \\
-	APPM 1360 & Calculus 2 for Engineers & Spring 2021 \\
-	APPM 2360 & Introduction to Differential Equations with Linear Algebra & Fall 2020 \\
-	APPM 1350 & Calculus 1 for Engineers & Fall 2019
-\end{tabular}
+Prelim Tutoring
 
-\textbf{Boise State University} \hfill{2017 -- 2019}
 
-\begin{tabular}{l l l}
-	\textbf{Course Number} & \textbf{Course Name} & \textbf{Term} \\
-	MATH 144 & Precalculus II: Trigonometry & Spring 2019 \\
-	MATH 149 & Precalculus: Function for Business (FM) & Spring 2019 \\
-	MATH 144 & Precalculus II: Trigonometry & Fall 2018 \\
-	MATH 144 & Precalculus II: Trigonometry & Spring 2018 \\
-	MATH 143 & College Algebra (FM) & Spring 2018 \\
-	MATH 143 & College Algebra (FM) & Fall 2017 \\
-	MATH 108 & Intermediate Algebra & Fall 2017 \\
-\end{tabular}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectitle{Other Research Experience}
+
+Space Nav
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \sectitle{Awards and Certifications}

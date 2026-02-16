@@ -287,6 +287,128 @@
       \field{title}{A Comparison of Rbf-Fd Methods for Solving PDEs on Surfaces}
       \field{year}{2019}
     \endentry
+    \entry{shaw2025approximating}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=d3dc8787f6fe36a17070b5bb14cc410c}{%
+           family={\textbf{Shaw,\bibnamedelimb Sage\bibnamedelimb B.}},
+           familyi={S\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Colorado at Boulder}%
+      }
+      \strng{namehash}{d3dc8787f6fe36a17070b5bb14cc410c}
+      \strng{fullhash}{d3dc8787f6fe36a17070b5bb14cc410c}
+      \strng{bibnamehash}{d3dc8787f6fe36a17070b5bb14cc410c}
+      \strng{authorbibnamehash}{d3dc8787f6fe36a17070b5bb14cc410c}
+      \strng{authornamehash}{d3dc8787f6fe36a17070b5bb14cc410c}
+      \strng{authorfullhash}{d3dc8787f6fe36a17070b5bb14cc410c}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Approximating the Effect of Inputs and Cortical Geometry on Wave Propagation in Neural Fields}
+      \field{type}{phdthesis}
+      \field{year}{2025}
+    \endentry
+    \entry{shaw2019rbf}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=d3dc8787f6fe36a17070b5bb14cc410c}{%
+           family={\textbf{Shaw,\bibnamedelimb Sage\bibnamedelimb B.}},
+           familyi={S\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Boise State Univeristy}%
+      }
+      \strng{namehash}{d3dc8787f6fe36a17070b5bb14cc410c}
+      \strng{fullhash}{d3dc8787f6fe36a17070b5bb14cc410c}
+      \strng{bibnamehash}{d3dc8787f6fe36a17070b5bb14cc410c}
+      \strng{authorbibnamehash}{d3dc8787f6fe36a17070b5bb14cc410c}
+      \strng{authornamehash}{d3dc8787f6fe36a17070b5bb14cc410c}
+      \strng{authorfullhash}{d3dc8787f6fe36a17070b5bb14cc410c}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Radial basis function finite difference approximations of the Laplace-Beltrami operator}
+      \field{type}{mathesis}
+      \field{year}{2019}
+    \endentry
+    \entry{shaw2024representing}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d3dc8787f6fe36a17070b5bb14cc410c}{%
+           family={\textbf{Shaw,\bibnamedelimb Sage\bibnamedelimb B.}},
+           familyi={S\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=7d7064c96cbbcf44fa250f704446d717}{%
+           family={Kilpatrick},
+           familyi={K\bibinitperiod},
+           given={Zachary\bibnamedelima P.},
+           giveni={Z\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{3cc4f7d7473ca362d85d30a938290096}
+      \strng{fullhash}{3cc4f7d7473ca362d85d30a938290096}
+      \strng{bibnamehash}{3cc4f7d7473ca362d85d30a938290096}
+      \strng{authorbibnamehash}{3cc4f7d7473ca362d85d30a938290096}
+      \strng{authornamehash}{3cc4f7d7473ca362d85d30a938290096}
+      \strng{authorfullhash}{3cc4f7d7473ca362d85d30a938290096}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of computational neuroscience}
+      \field{number}{2}
+      \field{title}{Representing stimulus motion with waves in adaptive neural fields}
+      \field{volume}{52}
+      \field{year}{2024}
+      \field{pages}{145\bibrangedash 164}
+      \range{pages}{20}
+    \endentry
+    \entry{shawRadialBasisFunction2025}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=d3dc8787f6fe36a17070b5bb14cc410c}{%
+           family={\textbf{Shaw,\bibnamedelimb Sage\bibnamedelimb B.}},
+           familyi={S\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=7d7064c96cbbcf44fa250f704446d717}{%
+           family={Kilpatrick},
+           familyi={K\bibinitperiod},
+           given={Zachary\bibnamedelima P.},
+           giveni={Z\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=012b52dd1b078d1131635c380eb23542}{%
+           family={Avitabile},
+           familyi={A\bibinitperiod},
+           given={Daniele},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{fa46612c588fed5d2447a2094fa1aa22}
+      \strng{fullhash}{fa46612c588fed5d2447a2094fa1aa22}
+      \strng{bibnamehash}{fa46612c588fed5d2447a2094fa1aa22}
+      \strng{authorbibnamehash}{fa46612c588fed5d2447a2094fa1aa22}
+      \strng{authornamehash}{fa46612c588fed5d2447a2094fa1aa22}
+      \strng{authorfullhash}{fa46612c588fed5d2447a2094fa1aa22}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{arXiv:2504.13379}
+      \field{title}{Radial {{Basis Function Techniques}} for {{Neural Field Models}} on {{Surfaces}}}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.48550/arXiv.2504.13379
+      \endverb
+      \verb{eprint}
+      \verb 2504.13379
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

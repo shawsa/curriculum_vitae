@@ -2179,18 +2179,24 @@
   <!-- CITATION DATA -->
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
-    <bcf:datasource type="file" datatype="bibtex">references.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">publications.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">theses.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">presentations.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">shaw_SIADS23</bcf:citekey>
-    <bcf:citekey order="2">shaw_comp</bcf:citekey>
-    <bcf:citekey order="3">shaw_2023_recruitment</bcf:citekey>
-    <bcf:citekey order="4">shaw_grad_seminar</bcf:citekey>
-    <bcf:citekey order="5">SHAW2019</bcf:citekey>
-    <bcf:citekey order="6">shaw_CSE19</bcf:citekey>
-    <bcf:citekey order="7">shaw_capstone</bcf:citekey>
-    <bcf:citekey order="8">shaw_SOAR</bcf:citekey>
-    <bcf:citekey order="9">shaw_chico_conference</bcf:citekey>
+    <bcf:citekey order="1">shawRadialBasisFunction2025</bcf:citekey>
+    <bcf:citekey order="2">shaw2024representing</bcf:citekey>
+    <bcf:citekey order="3">shaw2025approximating</bcf:citekey>
+    <bcf:citekey order="4">shaw2019rbf</bcf:citekey>
+    <bcf:citekey order="5">shaw_SIADS23</bcf:citekey>
+    <bcf:citekey order="6">shaw_comp</bcf:citekey>
+    <bcf:citekey order="7">shaw_2023_recruitment</bcf:citekey>
+    <bcf:citekey order="8">shaw_grad_seminar</bcf:citekey>
+    <bcf:citekey order="9">SHAW2019</bcf:citekey>
+    <bcf:citekey order="10">shaw_CSE19</bcf:citekey>
+    <bcf:citekey order="11">shaw_capstone</bcf:citekey>
+    <bcf:citekey order="12">shaw_SOAR</bcf:citekey>
+    <bcf:citekey order="13">shaw_chico_conference</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

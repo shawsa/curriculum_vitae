@@ -1,11 +1,13 @@
 # Fdb version 3
-["biber texaux/CV"] 1771009799 "texaux/CV.bcf" "texaux/CV.bbl" "texaux/CV" 1771010258
-  "references.bib" 1771009613 2892 51e5256db827793ce767a53b8ce3aaa9 ""
-  "texaux/CV.bcf" 1771010258 101729 8c4438c37ffa5ae2761900dcf790406c "pdflatex"
+["biber texaux/CV"] 1771270868 "texaux/CV.bcf" "texaux/CV.bbl" "texaux/CV" 1771270975
+  "presentations.bib" 1771270292 2892 51e5256db827793ce767a53b8ce3aaa9 ""
+  "publications.bib" 1771270868 726 ec6ac7959fb347ef47a8e56342cc39e0 ""
+  "texaux/CV.bcf" 1771270869 102145 ed8ae47436635fa337296b5e5ef9772c "pdflatex"
+  "theses.bib" 1771270851 476 4b74e7ec7bb6199a8d0743602be89b92 ""
   (generated)
   "texaux/CV.bbl"
   "texaux/CV.blg"
-["pdflatex"] 1771010258 "CV.tex" "texaux/CV.pdf" "CV" 1771010258
+["pdflatex"] 1771270869 "CV.tex" "texaux/CV.pdf" "CV" 1771270975
   "/etc/texmf/web2c/texmf.cnf" 1644021342 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-sc.enc" 1439157308 3096 d5cbf7aaa5d98173845186200e5ccea8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1439157308 2880 847ca622ad468c3dafba6a3f9d89a636 ""
@@ -77,6 +79,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx" 1510525977 4578 2d37f6a8c72f47aacef79870545a713d ""
   "/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx" 1566680006 38102 0107e531be1e2d63345edc3b268e7658 ""
   "/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1579991033 13886 d1306dcf79a944f6988e688c1785f9ce ""
+  "/usr/share/texlive/texmf-dist/tex/latex/etaremune/etaremune.sty" 1137110107 3251 65e8a5d192b62112fb36dfba0bc4c282 ""
   "/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1569190624 45259 743c52a37a6e5ed83cfe0e128b2da10d ""
   "/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty" 1395693695 14170 4202cf11062745283a9a5fdc97c16c48 ""
   "/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty" 1578002852 41601 9cf6c5257b1bc7af01a58859749dd37a ""
@@ -127,15 +130,15 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1755619448 4770781 1ed1abab22da9c3e2cc82e4db562318b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1755619469 8274147 26f0fd728be650cee14cfd09986380c8 ""
-  "CV.tex" 1771010256 4481 8311d02b6d61949000d51fab1661466f ""
-  "texaux/CV.aux" 1771010258 2346 a755f7871535f56fa8072fd11805ab9d "pdflatex"
-  "texaux/CV.bbl" 1771009799 12419 4765c4458c92566f3fbb8ee994e5fb0c "biber texaux/CV"
-  "texaux/CV.out" 1771010258 233 7f7719b22f8b6ff7fe20fefaa8dad0fd "pdflatex"
-  "texaux/CV.run.xml" 1771010258 2291 40f7c89d463e57c17e2403c9442857f5 "pdflatex"
+  "CV.tex" 1771270821 5633 a4d0424d59e3634b60f255cb4190e5ab ""
+  "texaux/CV.aux" 1771270869 3162 8c7c5be54df577f158481204091faea7 "pdflatex"
+  "texaux/CV.bbl" 1771270869 17763 460d00eabb8973c76fa9de27f464739a "biber texaux/CV"
+  "texaux/CV.out" 1771270869 354 eaf53726e7adbd7aa2870c7a830bb4ea "pdflatex"
+  "texaux/CV.run.xml" 1771270869 2360 10c219251af3cd2eb9e2e37637f76d99 "pdflatex"
   (generated)
   "texaux/CV.log"
-  "texaux/CV.run.xml"
   "texaux/CV.bcf"
-  "texaux/CV.pdf"
   "texaux/CV.out"
+  "texaux/CV.run.xml"
   "texaux/CV.aux"
+  "texaux/CV.pdf"
