@@ -19,43 +19,29 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
-    \entry{SHAW2019}{article}{}
+    \entry{shaw_phd}{unpublished}{}
       \name{author}{1}{}{%
-        {{hash=f5753b28251f6ed32b370842fce9965d}{%
+        {{hash=67a2061315ade082ffb498a9299aeb27}{%
            family={Shaw},
            familyi={S\bibinitperiod},
-           given={Sage},
-           giveni={S\bibinitperiod}}}%
+           given={Sage\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
       }
-      \strng{namehash}{f5753b28251f6ed32b370842fce9965d}
-      \strng{fullhash}{f5753b28251f6ed32b370842fce9965d}
-      \strng{bibnamehash}{f5753b28251f6ed32b370842fce9965d}
-      \strng{authorbibnamehash}{f5753b28251f6ed32b370842fce9965d}
-      \strng{authornamehash}{f5753b28251f6ed32b370842fce9965d}
-      \strng{authorfullhash}{f5753b28251f6ed32b370842fce9965d}
+      \strng{namehash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{fullhash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{bibnamehash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{authorbibnamehash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{authornamehash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{authorfullhash}{67a2061315ade082ffb498a9299aeb27}
       \field{extraname}{1}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{1}
-      \field{journaltitle}{Boise State University Theses and Dissertations}
-      \field{month}{8}
-      \field{title}{Radial Basis Function Finite Difference Approximations of the Laplace-Beltrami Operator}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \verb{doi}
-      \verb 10.18122/td/1587/boisestate
-      \endverb
-      \verb{file}
-      \verb "Radial Basis Function Finite Difference Approximations of the Laplace-" by Sage Byron Shaw:/home/sage/Zotero/storage/2F5WN274/1587.html:text/html;Full Text:/home/sage/Zotero/storage/PAVB783X/Shaw - 2019 - Radial Basis Function Finite Difference Approximat.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://scholarworks.boisestate.edu/td/1587
-      \endverb
-      \verb{url}
-      \verb https://scholarworks.boisestate.edu/td/1587
-      \endverb
+      \field{month}{5}
+      \field{note}{Univeristy of Colorado Boulder Applied Math PhD Defense}
+      \field{title}{Approximating the effect of inputs and cortical geometry on wave propagation in neural fields}
+      \field{year}{2025}
     \endentry
     \entry{shaw_comp}{unpublished}{}
       \name{author}{1}{}{%
@@ -79,12 +65,6 @@
       \field{note}{CU Boulder APPM Comprehensive Exam Presentation}
       \field{title}{Control of Traveling Waves in Adaptive Neural Fields}
       \field{year}{2023}
-      \verb{urlraw}
-      \verb https://shawsa.github.io/presentations/20230404_comps/index.html
-      \endverb
-      \verb{url}
-      \verb https://shawsa.github.io/presentations/20230404_comps/index.html
-      \endverb
     \endentry
     \entry{shaw_grad_seminar}{unpublished}{}
       \name{author}{1}{}{%
@@ -109,12 +89,6 @@
       \field{note}{CU Boulder APPM Graduate Student Seminar}
       \field{title}{Functional Programming in Python}
       \field{year}{2021}
-      \verb{urlraw}
-      \verb https://shawsa.github.io/presentations/grad_seminar20210826/index.html
-      \endverb
-      \verb{url}
-      \verb https://shawsa.github.io/presentations/grad_seminar20210826/index.html
-      \endverb
     \endentry
     \entry{shaw_capstone}{unpublished}{}
       \name{author}{1}{}{%
@@ -139,7 +113,7 @@
       \field{title}{On the Eigenproblem}
       \field{year}{2013}
     \endentry
-    \entry{shaw_chico_conference}{unpublished}{}
+    \entry{shaw_grad_seminar_2023}{unpublished}{}
       \name{author}{1}{}{%
         {{hash=67a2061315ade082ffb498a9299aeb27}{%
            family={Shaw},
@@ -154,6 +128,86 @@
       \strng{authornamehash}{67a2061315ade082ffb498a9299aeb27}
       \strng{authorfullhash}{67a2061315ade082ffb498a9299aeb27}
       \field{extraname}{5}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{note}{University of Colorado Boulder Applied Math Graduate Student Seminar}
+      \field{title}{Python in Scientific Computing: Why and How?}
+      \field{year}{2023}
+    \endentry
+    \entry{SHAW2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=67a2061315ade082ffb498a9299aeb27}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Sage\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{fullhash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{bibnamehash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{authorbibnamehash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{authornamehash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{authorfullhash}{67a2061315ade082ffb498a9299aeb27}
+      \field{extraname}{6}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Boise State University Theses and Dissertations}
+      \field{month}{8}
+      \field{title}{Radial Basis Function Finite Difference Approximations of the Laplace-Beltrami Operator}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.18122/td/1587/boisestate
+      \endverb
+      \verb{file}
+      \verb "Radial Basis Function Finite Difference Approximations of the Laplace-" by Sage Byron Shaw:/home/sage/Zotero/storage/2F5WN274/1587.html:text/html;Full Text:/home/sage/Zotero/storage/PAVB783X/Shaw - 2019 - Radial Basis Function Finite Difference Approximat.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{shaw_ICMNS24}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=67a2061315ade082ffb498a9299aeb27}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Sage\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{fullhash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{bibnamehash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{authorbibnamehash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{authornamehash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{authorfullhash}{67a2061315ade082ffb498a9299aeb27}
+      \field{extraname}{7}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{note}{International Conference on Mathematical Neuroscience 2024}
+      \field{title}{Radial Basis Function Methods for Neural Field Models}
+      \field{year}{2024}
+    \endentry
+    \entry{shaw_chico_conference}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=67a2061315ade082ffb498a9299aeb27}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Sage\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{fullhash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{bibnamehash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{authorbibnamehash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{authornamehash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{authorfullhash}{67a2061315ade082ffb498a9299aeb27}
+      \field{extraname}{8}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{labelnamesource}{author}
@@ -176,7 +230,7 @@
       \strng{authorbibnamehash}{67a2061315ade082ffb498a9299aeb27}
       \strng{authornamehash}{67a2061315ade082ffb498a9299aeb27}
       \strng{authorfullhash}{67a2061315ade082ffb498a9299aeb27}
-      \field{extraname}{6}
+      \field{extraname}{9}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{labelnamesource}{author}
@@ -185,7 +239,31 @@
       \field{title}{The QR Algorithm}
       \field{year}{2013}
     \endentry
-    \entry{shaw_2023_recruitment}{unpublished}{}
+    \entry{shaw_chicago_2023}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=67a2061315ade082ffb498a9299aeb27}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Sage\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{fullhash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{bibnamehash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{authorbibnamehash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{authornamehash}{67a2061315ade082ffb498a9299aeb27}
+      \strng{authorfullhash}{67a2061315ade082ffb498a9299aeb27}
+      \field{extraname}{10}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{note}{20 Years of Collaboration in Computational Neuroscience at University of Chicago}
+      \field{title}{Wave response theory for neural representations of apparent motion}
+      \field{year}{2023}
+    \endentry
+    \entry{shaw_SIADS23}{unpublished}{}
       \name{author}{2}{}{%
         {{hash=67a2061315ade082ffb498a9299aeb27}{%
            family={Shaw},
@@ -209,18 +287,12 @@
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{3}
-      \field{note}{Poster Presentation for CU APPM recruitment}
+      \field{month}{5}
+      \field{note}{Poster Presentation for SIADS23}
       \field{title}{Stimuli shift the position of traveling waves in neural fields with synaptic depression}
-      \field{year}{2019}
-      \verb{urlraw}
-      \verb https://shawsa.github.io/presentations/20230310_recruitment_poster.html
-      \endverb
-      \verb{url}
-      \verb https://shawsa.github.io/presentations/20230310_recruitment_poster.html
-      \endverb
+      \field{year}{2023}
     \endentry
-    \entry{shaw_SIADS23}{unpublished}{}
+    \entry{shaw_2023_recruitment}{unpublished}{}
       \name{author}{2}{}{%
         {{hash=67a2061315ade082ffb498a9299aeb27}{%
            family={Shaw},
@@ -244,16 +316,10 @@
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{5}
-      \field{note}{Poster Presentation for SIADS23}
+      \field{month}{3}
+      \field{note}{Poster Presentation for CU APPM recruitment}
       \field{title}{Stimuli shift the position of traveling waves in neural fields with synaptic depression}
       \field{year}{2023}
-      \verb{urlraw}
-      \verb https://shawsa.github.io/presentations/20230516_SIADS_poster.html
-      \endverb
-      \verb{url}
-      \verb https://shawsa.github.io/presentations/20230516_SIADS_poster.html
-      \endverb
     \endentry
     \entry{shaw_CSE19}{unpublished}{}
       \name{author}{3}{}{%
@@ -408,6 +474,70 @@
       \verb{eprint}
       \verb 2504.13379
       \endverb
+    \endentry
+    \entry{shaw_SIAMMDS24}{unpublished}{}
+      \name{author}{3}{}{%
+        {{hash=da1ce26c7699ef1eff629459e9d46a28}{%
+           family={{Shaw, Sage B.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=7d7064c96cbbcf44fa250f704446d717}{%
+           family={Kilpatrick},
+           familyi={K\bibinitperiod},
+           given={Zachary\bibnamedelima P.},
+           giveni={Z\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=012b52dd1b078d1131635c380eb23542}{%
+           family={Avitabile},
+           familyi={A\bibinitperiod},
+           given={Daniele},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{33ca224678a3ce06fa0df426ca768009}
+      \strng{fullhash}{33ca224678a3ce06fa0df426ca768009}
+      \strng{bibnamehash}{33ca224678a3ce06fa0df426ca768009}
+      \strng{authorbibnamehash}{33ca224678a3ce06fa0df426ca768009}
+      \strng{authornamehash}{33ca224678a3ce06fa0df426ca768009}
+      \strng{authorfullhash}{33ca224678a3ce06fa0df426ca768009}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{note}{Poster presentation for SIAM Conference on Mathematics of Data Science (MDS24)}
+      \field{title}{RBF Quadrature for Neural Fields}
+      \field{year}{2024}
+    \endentry
+    \entry{shaw_cu_recruitment_2024}{unpublished}{}
+      \name{author}{3}{}{%
+        {{hash=da1ce26c7699ef1eff629459e9d46a28}{%
+           family={{Shaw, Sage B.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=7d7064c96cbbcf44fa250f704446d717}{%
+           family={Kilpatrick},
+           familyi={K\bibinitperiod},
+           given={Zachary\bibnamedelima P.},
+           giveni={Z\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=012b52dd1b078d1131635c380eb23542}{%
+           family={Avitabile},
+           familyi={A\bibinitperiod},
+           given={Daniele},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{33ca224678a3ce06fa0df426ca768009}
+      \strng{fullhash}{33ca224678a3ce06fa0df426ca768009}
+      \strng{bibnamehash}{33ca224678a3ce06fa0df426ca768009}
+      \strng{authorbibnamehash}{33ca224678a3ce06fa0df426ca768009}
+      \strng{authornamehash}{33ca224678a3ce06fa0df426ca768009}
+      \strng{authorfullhash}{33ca224678a3ce06fa0df426ca768009}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{note}{Poster presentation for University of Colorado Boulder Graduate Student Recruitment}
+      \field{title}{RBF Quadrature for Neural Fields}
+      \field{year}{2024}
     \endentry
   \enddatalist
 \endrefsection

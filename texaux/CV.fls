@@ -229,6 +229,12 @@ INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxsy.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txsys.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txex-bar.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxmi.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/NewTXMI.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/stxscr.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxmi7.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/NewTXMI7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/stxscr.tfm
 INPUT texaux/CV.aux
 INPUT texaux/CV.out
 INPUT texaux/CV.out
@@ -236,6 +242,8 @@ INPUT texaux/CV.run.xml
 OUTPUT texaux/CV.run.xml
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-sc.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb
 INPUT /usr/share/texmf/fonts/type1/public/tex-gyre/qtmb.pfb
 INPUT /usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb
 INPUT /usr/share/texmf/fonts/type1/public/tex-gyre/qtmri.pfb

@@ -2188,15 +2188,21 @@
     <bcf:citekey order="2">shaw2024representing</bcf:citekey>
     <bcf:citekey order="3">shaw2025approximating</bcf:citekey>
     <bcf:citekey order="4">shaw2019rbf</bcf:citekey>
-    <bcf:citekey order="5">shaw_SIADS23</bcf:citekey>
-    <bcf:citekey order="6">shaw_comp</bcf:citekey>
-    <bcf:citekey order="7">shaw_2023_recruitment</bcf:citekey>
-    <bcf:citekey order="8">shaw_grad_seminar</bcf:citekey>
-    <bcf:citekey order="9">SHAW2019</bcf:citekey>
-    <bcf:citekey order="10">shaw_CSE19</bcf:citekey>
-    <bcf:citekey order="11">shaw_capstone</bcf:citekey>
-    <bcf:citekey order="12">shaw_SOAR</bcf:citekey>
-    <bcf:citekey order="13">shaw_chico_conference</bcf:citekey>
+    <bcf:citekey order="5">shaw_phd</bcf:citekey>
+    <bcf:citekey order="6">shaw_SIAMMDS24</bcf:citekey>
+    <bcf:citekey order="7">shaw_ICMNS24</bcf:citekey>
+    <bcf:citekey order="8">shaw_cu_recruitment_2024</bcf:citekey>
+    <bcf:citekey order="9">shaw_grad_seminar_2023</bcf:citekey>
+    <bcf:citekey order="10">shaw_chicago_2023</bcf:citekey>
+    <bcf:citekey order="11">shaw_SIADS23</bcf:citekey>
+    <bcf:citekey order="12">shaw_comp</bcf:citekey>
+    <bcf:citekey order="13">shaw_2023_recruitment</bcf:citekey>
+    <bcf:citekey order="14">shaw_grad_seminar</bcf:citekey>
+    <bcf:citekey order="15">SHAW2019</bcf:citekey>
+    <bcf:citekey order="16">shaw_CSE19</bcf:citekey>
+    <bcf:citekey order="17">shaw_capstone</bcf:citekey>
+    <bcf:citekey order="18">shaw_SOAR</bcf:citekey>
+    <bcf:citekey order="19">shaw_chico_conference</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
